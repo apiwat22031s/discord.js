@@ -1,1 +1,1 @@
-web: scr/indes.js
+worker:  bundle exec rake jobs:work
